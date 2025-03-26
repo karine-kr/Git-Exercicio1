@@ -1,0 +1,1 @@
+Este é o repositório de referência: https://github.com/karine-kr/Git-Exercicio1
